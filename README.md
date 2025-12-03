@@ -41,7 +41,7 @@ This project provides a simple database structure for managing an art gallery us
 - Demonstrates basic and advanced SQL features like joins, unions, create/drop users, and permission grants.
 
 ## Module Summary Poster
-<img src="https://github.com/arshad-perampalli/Art_Gallery_Management_System/blob/main/Art%20gallery%20poster.png?raw=true" width="650"/>
+<img src="https://github.com/arshad-perampalli/Art_Gallery_Management_System/blob/main/Art%20gallery%20poster.png?raw=true" width="750"/>
 
 
 ## Usage
